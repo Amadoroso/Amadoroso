@@ -1,6 +1,3 @@
-
----
-
 # Greetings
 
 Head of Processes and Digital Transformation • 42 Lisboa Student • Former Biochemist
