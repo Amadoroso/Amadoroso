@@ -37,12 +37,12 @@ C • Process Optimization • Biotechnology/Biochemistry
 - Digital Transformation, Memory Management, Unix shell,  Process Optimization, Biotechnology/Biochemistry
     
 ## 42 Curriculum
-
+                   
 | **Project** | **Status** | **Focus**                                  |
 | ----------- | ---------- | ------------------------------------------ |
 | **libft**   | ✔️         | Custom C library and libc reimplementation |
-| ft_printf   | ⚙️         | Variadic functions & parsing               |
-
+| ft_printf   | ⚙️         | Variadic functions & parsing               |       
+| Get_next_line   | ⚙️         | File I/O & memory handling               | 
 ## Contact
 
 - **Email:** andreamador76@gmail.com
