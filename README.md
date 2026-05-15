@@ -2,7 +2,7 @@
 
 Head of Processes and Digital Transformation • 42 Lisboa Student • Former Biochemist
 
-C • Process Optimization • JavaScript • Biotechnology/Biochemistry
+C • Process Optimization • Biotechnology/Biochemistry
 
 ---
 
