@@ -40,8 +40,8 @@ C • Process Optimization • Biotechnology/Biochemistry
                    
 | **Project** | **Status** | **Focus**                                  |
 | ----------- | ---------- | ------------------------------------------ |
-| **libft**   | ✔️         | Custom C library and libc reimplementation |
-| [ft_printf](https://github.com/Amadoroso/42_Libft)   | ⚙️         | Variadic functions & parsing               |       
+| **[libft](https://github.com/Amadoroso/42_libft)**   | ✔️         | Custom C library and libc reimplementation |
+| [ft_printf](https://github.com/Amadoroso/42_ft_printf)   | ⚙️         | Variadic functions & parsing               |       
 | [Get_next_line](https://github.com/Amadoroso/42_Get_next_line)   | ⚙️         | File I/O & memory handling               | 
 ## Contact
 
