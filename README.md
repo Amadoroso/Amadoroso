@@ -35,14 +35,15 @@ C • Process Optimization • Biotechnology/Biochemistry
 **Concepts**
 
 - Digital Transformation, Memory Management, Unix shell,  Process Optimization, Biotechnology/Biochemistry
-    
+            
 ## 42 Curriculum
-                   
-| **Project** | **Status** | **Focus**                                  |
+                    
+| **Project** | **Status** | **Focus** |
 | ----------- | ---------- | ------------------------------------------ |
-| **[libft](https://github.com/Amadoroso/42_libft)**   | ✔️         | Custom C library and libc reimplementation |
-| **[ft_printf](https://github.com/Amadoroso/42_ft_printf)**   | ✔️         | Variadic functions & parsing               |       
-| **[Get_next_line](https://github.com/Amadoroso/42_Get_next_line)**   | ⚙️         | File I/O & memory handling               | 
+| **[libft](https://github.com/Amadoroso/42_libft)** | ✔️         | Custom C library and libc reimplementation |
+| **[ft_printf](https://github.com/Amadoroso/42_ft_printf)** | ✔️         | Variadic functions & parsing               |       
+| **[Get_next_line](https://github.com/Amadoroso/42_Get_next_line)** | ⚙️         | File I/O & memory handling               | 
+| **[Push_Swap](https://github.com/Amadoroso/42_Push_Swap)** | ⚙️         | Sorting algorithms & stack manipulation  |
 ## Contact
 
 - **Email:** andreamador76@gmail.com
