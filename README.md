@@ -22,9 +22,10 @@ C • Process Optimization • Biotechnology/Biochemistry
 
 - C (Active)
     
+- Python (Active)
+
 - HTML & JavaScript (Beginning to apply)
     
-- Python (Planned)
     
 
 **Environment & Tools**
