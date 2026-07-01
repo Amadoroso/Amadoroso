@@ -45,6 +45,7 @@ C • Process Optimization • Biotechnology/Biochemistry
 | **[ft_printf](https://github.com/Amadoroso/42_ft_printf)** | ✔️         | Variadic functions & parsing               |       
 | **[Get_next_line](https://github.com/Amadoroso/42_Get_next_line)** | ✔️         | File I/O & memory handling               | 
 | **[Push_Swap](https://github.com/Amadoroso/42_Push_Swap)** | ✔️         | Sorting algorithms & stack manipulation  |
+| **[Python_module_00](https://github.com/Amadoroso/42_Python_Module_00.git)** | ⚙️        | Python Fundamentals Through Garden Data |
 ## Contact
 
 - **Email:** andreamador76@gmail.com
