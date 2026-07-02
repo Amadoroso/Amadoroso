@@ -46,7 +46,7 @@ C • Process Optimization • Biotechnology/Biochemistry
 | **[Get_next_line](https://github.com/Amadoroso/42_Get_next_line)** | ✔️ | File I/O & memory handling               | 
 | **[Push_Swap](https://github.com/Amadoroso/42_Push_Swap)** | ✔️ | Sorting algorithms & stack manipulation  |
 | **[Python_module_00](https://github.com/Amadoroso/42_Python_Module_00.git)** | ✔️ | Python Fundamentals Through Garden Data |
-| **[Python_module_01](https://github.com/Amadoroso/42_Python_Module_01.git)** | ⚙️ | Python Fundamentals Through Garden Data |
+| **[Python_module_01](https://github.com/Amadoroso/42_Python_Module_01.git)** | ⚙️ | Object-Oriented Garden Systems |
 ## Contact
 
 - **Email:** andreamador76@gmail.com
