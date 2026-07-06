@@ -47,6 +47,14 @@ C • Process Optimization • Biotechnology/Biochemistry
 | **[Push_Swap](https://github.com/Amadoroso/42_Push_Swap)** | ✔️ | Sorting algorithms & stack manipulation  |
 | **[Python_module_00](https://github.com/Amadoroso/42_Python_Module_00.git)** | ✔️ | Python Fundamentals Through Garden Data |
 | **[Python_module_01](https://github.com/Amadoroso/42_Python_Module_01.git)** | ⚙️ | Object-Oriented Garden Systems |
+
+## Personal Projects
+
+| **Project** | **Status** | **Focus** |
+| ----------- | ---------- | ------------------------------------------ |
+| **[DockMod](https://github.com/Amadoroso/DockMod)** | ✔️ | A Python script to modify the macOS Dock autohide delay and adjust its animation speed |
+| **[PyClean](https://github.com/Amadoroso/PyClean)** | ✔️ | A Python script designed to recursively find and purge Python cache and mypy cache from project directories |
+
 ## Contact
 
 - **Email:** andreamador76@gmail.com
