@@ -8,7 +8,7 @@ Python • C • Process Optimization • Biotechnology/Biochemistry
 
 ## Profile
 
-- **Current Focus:** 42 Lisboa student mastering C and low-level programming, with Python next.
+- **Current Focus:** 42 Lisboa student mastering Python and C.
     
 - **Professional Role:** Head of Processes and Digital Transformation at MCD Services by Marcodiesel. Managing strategic technology/software adoption and driving operational excellence.
     
