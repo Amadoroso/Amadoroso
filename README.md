@@ -46,7 +46,8 @@ C • Process Optimization • Biotechnology/Biochemistry
 | **[Get_next_line](https://github.com/Amadoroso/42_Get_next_line)** | ✔️ | File I/O & memory handling               | 
 | **[Push_Swap](https://github.com/Amadoroso/42_Push_Swap)** | ✔️ | Sorting algorithms & stack manipulation  |
 | **[Python_module_00](https://github.com/Amadoroso/42_Python_Module_00.git)** | ✔️ | Python Fundamentals Through Garden Data |
-| **[Python_module_01](https://github.com/Amadoroso/42_Python_Module_01.git)** | ⚙️ | Object-Oriented Garden Systems |
+| **[Python_module_01](https://github.com/Amadoroso/42_Python_Module_01.git)** | ✔️ | Object-Oriented Garden Systems |
+| **[Python_module_02](https://github.com/Amadoroso/42_Python_Module_02.git)** | ⚙️ | Data Engineering for Smart Agriculture |
 
 ## Personal Projects
 
@@ -54,6 +55,7 @@ C • Process Optimization • Biotechnology/Biochemistry
 | ----------- | ---------- | ------------------------------------------ |
 | **[DockMod](https://github.com/Amadoroso/DockMod)** | ✔️ | A Python script to modify the macOS Dock autohide delay and adjust its animation speed |
 | **[PyClean](https://github.com/Amadoroso/PyClean)** | ✔️ | A Python script designed to recursively find and purge Python cache and mypy cache from project directories |
+| **[Myke8](https://github.com/Amadoroso/Myke8)** | ✔️ | A Python script designed to recursively find and purge Python cache and mypy cache from project
 
 ## Contact
 
