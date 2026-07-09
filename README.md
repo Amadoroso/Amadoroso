@@ -14,7 +14,7 @@ Python • C • Process Optimization • Biotechnology/Biochemistry
     
 - **Background:** MSc in Biotechnology and BSc in Biochemistry. Previous R&D experience in enzymatic engineering, integrating experimental and computational approaches.
     
-- **Development:** Applying HTML and JavaScript for current work projects.
+- **Development:** Applying HTML, JavaScript and Python for current work projects.
     
 ## Tech Stack
 
