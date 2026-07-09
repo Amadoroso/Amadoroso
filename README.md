@@ -55,7 +55,7 @@ Python • C • Process Optimization • Biotechnology/Biochemistry
 | ----------- | ---------- | ------------------------------------------ |
 | **[DockMod](https://github.com/Amadoroso/DockMod)** | ✔️ | A Python script to modify the macOS Dock autohide delay and adjust its animation speed |
 | **[PyClean](https://github.com/Amadoroso/PyClean)** | ✔️ | A Python script designed to recursively find and purge Python cache and mypy cache from project directories |
-| **[Myke8](https://github.com/Amadoroso/Myke8)** | ✔️ | Combining and filtering flake8 and mypy execution because Im too lazy to do 'mypy .' and 'flake8' 2x |
+| **[Myke8](https://github.com/Amadoroso/Myke8)** | ✔️ | Combining 'flake8' and 'mypy' execution because Im too lazy to do 'mypy .' and 'flake8' seperately |
 
 
 ## Contact
