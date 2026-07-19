@@ -49,6 +49,7 @@ Python • C • Process Optimization • Biotechnology/Biochemistry
 | **[Python_module_01](https://github.com/Amadoroso/42_Python_Module_01)** | ✔️ | Object-Oriented Garden Systems |
 | **[Python_module_02](https://github.com/Amadoroso/42_Python_module_02)** | ✔️ | Data Engineering for Smart Agriculture |
 | **[Python_module_03](https://github.com/Amadoroso/42_Python_module_03)** | ⚙️ | Mastering Python Collections |
+| **[Python_module_04](https://github.com/Amadoroso/42_Python_module_04)** | ⚙️ | Digital Preservation in the Cyber Archives |
 
 ## Personal Projects
 
