@@ -45,7 +45,7 @@ Python • C • Process Optimization • Biotechnology/Biochemistry
 | **[ft_printf](https://github.com/Amadoroso/42_ft_printf)** | ✔️ | Variadic functions & parsing               |       
 | **[Get_next_line](https://github.com/Amadoroso/42_Get_next_line)** | ✔️ | File I/O & memory handling               | 
 | **[Push_Swap](https://github.com/Amadoroso/42_Push_Swap)** | ✔️ | Sorting algorithms & stack manipulation  |
-| **[Python_modules](https://github.com/Amadoroso/42_Python_Modules)** | 6/11 | Python Fundamentals |
+| **[Python_modules](https://github.com/Amadoroso/42_Python_Modules)** | 8/11 | Python Fundamentals |
 
 ## Personal Projects
 
