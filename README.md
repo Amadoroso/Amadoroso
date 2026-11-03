@@ -18,14 +18,9 @@ Python • C • Process Optimization • Biotechnology/Biochemistry
     
 ## Tech Stack
 
-**Languages**
 
-- C (Active)
-    
-- Python (Active)
-
-- HTML & JavaScript (Beginning to apply)
-    
+- C and Python in 42 School
+- Building SPAs with React, next.js and PostgreSQL at work
     
 
 **Environment & Tools**
