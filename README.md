@@ -25,7 +25,7 @@ Python • C • Process Optimization • Biotechnology/Biochemistry
 
 **Environment & Tools**
 
-- VS Code, Unix
+- Lazyvim, Unix
     
 
 **Concepts**
