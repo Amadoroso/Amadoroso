@@ -40,7 +40,8 @@ Python • C • Process Optimization • Biotechnology/Biochemistry
 | **[ft_printf](https://github.com/Amadoroso/42_ft_printf)** | ✔️ | Variadic functions & parsing               |       
 | **[Get_next_line](https://github.com/Amadoroso/42_Get_next_line)** | ✔️ | File I/O & memory handling               | 
 | **[Push_Swap](https://github.com/Amadoroso/42_Push_Swap)** | ✔️ | Sorting algorithms & stack manipulation  |
-| **[Python_modules](https://github.com/Amadoroso/42_Python_Modules)** | 8/11 | Python Fundamentals |
+| **[Python_modules](https://github.com/Amadoroso/42_Python_Modules)** | ✔️ | Python Fundamentals |
+| **[A-maze-ing](https://github.com/un418/a_maze_ing)** | ✔️ | This is the way |
 
 ## Personal Projects
 
@@ -49,6 +50,7 @@ Python • C • Process Optimization • Biotechnology/Biochemistry
 | **[DockMod](https://github.com/Amadoroso/DockMod)** | ✔️ | A Python script to modify the macOS Dock autohide delay and adjust its animation speed |
 | **[PyClean](https://github.com/Amadoroso/PyClean)** | ✔️ | A Python script designed to recursively find and purge Python cache and mypy cache from project directories |
 | **[Myke8](https://github.com/Amadoroso/Myke8)** | ✔️ | Python script that Combines 'flake8' and 'mypy' execution because Im too lazy to do 'mypy .' seperately 'flake8' |
+| **[HealthCharts](https://github.com/Amadoroso/HealthCharts)** | WIP | Swift app to display HealthKit data as charts in iOS homescreen widgets |
 
 
 ## Contact
