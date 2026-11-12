@@ -41,7 +41,7 @@ Python • C • Process Optimization • Biotechnology/Biochemistry
 | **[Get_next_line](https://github.com/Amadoroso/42_Get_next_line)** | ✔️ | File I/O & memory handling               | 
 | **[Push_Swap](https://github.com/Amadoroso/42_Push_Swap)** | ✔️ | Sorting algorithms & stack manipulation  |
 | **[Python_modules](https://github.com/Amadoroso/42_Python_Modules)** | ✔️ | Python Fundamentals |
-| **[A-maze-ing](https://github.com/un418/a_maze_ing)** | ✔️ | This is the way |
+| **[A-maze-ing](https://github.com/un418/a_maze_ing)** | ⚙️ | This is the way |
 
 ## Personal Projects
 
